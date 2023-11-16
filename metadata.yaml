@@ -1,5 +1,8 @@
 _repo: Chinese-pictures-b-notes-on-photographs-made-in-China_71968
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71968-h/images/cover.jpg
 creator:
   author:
     agent_name: Bird, Isabella L. (Isabella Lucy)
@@ -18,6 +21,8 @@ description: '"This little book is the outcome of talks with Mrs. Bishop [Isabel
   by Mrs. Bishop."--Introduction
 
   Illustrated with photographs by the author.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71968#Chinese-pictures-b-notes-on-photographs-made-in-China
 gutenberg_issued: '2023-10-27'
 identifiers:
   gutenberg: '71968'
